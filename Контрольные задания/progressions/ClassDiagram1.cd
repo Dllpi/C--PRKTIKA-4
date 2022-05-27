@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="progressions.Progression">
+    <Position X="5.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Progression.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="progressions.GeometricProgression">
+    <Position X="8" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAACAAAAgACAAAAAAAAA=</HashCode>
+      <FileName>GeometricProgression.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="progressions.ArithmeticProgression">
+    <Position X="4" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAACAAAAkAAAAAAAAAAA=</HashCode>
+      <FileName>ArithmeticProgression.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,28 @@
+D:\Studies\1 курс\2 семестр\Процессы разработки программного обеспечения\Тема 2. Создание иерархии классов\3\progressions\obj\Debug\netcoreapp3.1\progressions.csproj.AssemblyReference.cache
+D:\Studies\1 курс\2 семестр\Процессы разработки программного обеспечения\Тема 2. Создание иерархии классов\3\progressions\obj\Debug\netcoreapp3.1\progressions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studies\1 курс\2 семестр\Процессы разработки программного обеспечения\Тема 2. Создание иерархии классов\3\progressions\obj\Debug\netcoreapp3.1\progressions.AssemblyInfoInputs.cache
+D:\Studies\1 курс\2 семестр\Процессы разработки программного обеспечения\Тема 2. Создание иерархии классов\3\progressions\obj\Debug\netcoreapp3.1\progressions.AssemblyInfo.cs
+D:\Studies\1 курс\2 семестр\Процессы разработки программного обеспечения\Тема 2. Создание иерархии классов\3\progressions\obj\Debug\netcoreapp3.1\progressions.csproj.CoreCompileInputs.cache
+D:\Studies\1 курс\2 семестр\Процессы разработки программного обеспечения\Тема 2. Создание иерархии классов\3\progressions\bin\Debug\netcoreapp3.1\progressions.exe
+D:\Studies\1 курс\2 семестр\Процессы разработки программного обеспечения\Тема 2. Создание иерархии классов\3\progressions\bin\Debug\netcoreapp3.1\progressions.deps.json
+D:\Studies\1 курс\2 семестр\Процессы разработки программного обеспечения\Тема 2. Создание иерархии классов\3\progressions\bin\Debug\netcoreapp3.1\progressions.runtimeconfig.json
+D:\Studies\1 курс\2 семестр\Процессы разработки программного обеспечения\Тема 2. Создание иерархии классов\3\progressions\bin\Debug\netcoreapp3.1\progressions.runtimeconfig.dev.json
+D:\Studies\1 курс\2 семестр\Процессы разработки программного обеспечения\Тема 2. Создание иерархии классов\3\progressions\bin\Debug\netcoreapp3.1\progressions.dll
+D:\Studies\1 курс\2 семестр\Процессы разработки программного обеспечения\Тема 2. Создание иерархии классов\3\progressions\bin\Debug\netcoreapp3.1\progressions.pdb
+D:\Studies\1 курс\2 семестр\Процессы разработки программного обеспечения\Тема 2. Создание иерархии классов\3\progressions\obj\Debug\netcoreapp3.1\progressions.dll
+D:\Studies\1 курс\2 семестр\Процессы разработки программного обеспечения\Тема 2. Создание иерархии классов\3\progressions\obj\Debug\netcoreapp3.1\progressions.pdb
+D:\Studies\1 курс\2 семестр\Процессы разработки программного обеспечения\Тема 2. Создание иерархии классов\3\progressions\obj\Debug\netcoreapp3.1\progressions.genruntimeconfig.cache
+D:\Studies\1 курс\2 семестр\Процессы разработки программного обеспечения\Тема 4. Использование интерфейсов при реализации иерархии классов\Контрольные задания\progressions\bin\Debug\netcoreapp3.1\progressions.exe
+D:\Studies\1 курс\2 семестр\Процессы разработки программного обеспечения\Тема 4. Использование интерфейсов при реализации иерархии классов\Контрольные задания\progressions\bin\Debug\netcoreapp3.1\progressions.deps.json
+D:\Studies\1 курс\2 семестр\Процессы разработки программного обеспечения\Тема 4. Использование интерфейсов при реализации иерархии классов\Контрольные задания\progressions\bin\Debug\netcoreapp3.1\progressions.runtimeconfig.json
+D:\Studies\1 курс\2 семестр\Процессы разработки программного обеспечения\Тема 4. Использование интерфейсов при реализации иерархии классов\Контрольные задания\progressions\bin\Debug\netcoreapp3.1\progressions.runtimeconfig.dev.json
+D:\Studies\1 курс\2 семестр\Процессы разработки программного обеспечения\Тема 4. Использование интерфейсов при реализации иерархии классов\Контрольные задания\progressions\bin\Debug\netcoreapp3.1\progressions.dll
+D:\Studies\1 курс\2 семестр\Процессы разработки программного обеспечения\Тема 4. Использование интерфейсов при реализации иерархии классов\Контрольные задания\progressions\bin\Debug\netcoreapp3.1\progressions.pdb
+D:\Studies\1 курс\2 семестр\Процессы разработки программного обеспечения\Тема 4. Использование интерфейсов при реализации иерархии классов\Контрольные задания\progressions\obj\Debug\netcoreapp3.1\progressions.csproj.AssemblyReference.cache
+D:\Studies\1 курс\2 семестр\Процессы разработки программного обеспечения\Тема 4. Использование интерфейсов при реализации иерархии классов\Контрольные задания\progressions\obj\Debug\netcoreapp3.1\progressions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studies\1 курс\2 семестр\Процессы разработки программного обеспечения\Тема 4. Использование интерфейсов при реализации иерархии классов\Контрольные задания\progressions\obj\Debug\netcoreapp3.1\progressions.AssemblyInfoInputs.cache
+D:\Studies\1 курс\2 семестр\Процессы разработки программного обеспечения\Тема 4. Использование интерфейсов при реализации иерархии классов\Контрольные задания\progressions\obj\Debug\netcoreapp3.1\progressions.AssemblyInfo.cs
+D:\Studies\1 курс\2 семестр\Процессы разработки программного обеспечения\Тема 4. Использование интерфейсов при реализации иерархии классов\Контрольные задания\progressions\obj\Debug\netcoreapp3.1\progressions.csproj.CoreCompileInputs.cache
+D:\Studies\1 курс\2 семестр\Процессы разработки программного обеспечения\Тема 4. Использование интерфейсов при реализации иерархии классов\Контрольные задания\progressions\obj\Debug\netcoreapp3.1\progressions.dll
+D:\Studies\1 курс\2 семестр\Процессы разработки программного обеспечения\Тема 4. Использование интерфейсов при реализации иерархии классов\Контрольные задания\progressions\obj\Debug\netcoreapp3.1\progressions.pdb
+D:\Studies\1 курс\2 семестр\Процессы разработки программного обеспечения\Тема 4. Использование интерфейсов при реализации иерархии классов\Контрольные задания\progressions\obj\Debug\netcoreapp3.1\progressions.genruntimeconfig.cache
